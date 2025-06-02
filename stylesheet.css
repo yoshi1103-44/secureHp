@@ -987,6 +987,14 @@ nav {
     border-color: #111;
 }
 
+.navbar-toggler {
+    height: 2.5em;
+    width: 2.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .navbar a {
     color: #FFFFFF;
 }
@@ -995,9 +1003,7 @@ button:hover {
     background-color: #FFA559;
 }
 
-.service-wrapper {
-    margin: 50px;
-}
+
 
 .service-wrapper h3 {
     background-color: rgba(255, 249, 249, 0.782);
@@ -1054,13 +1060,6 @@ button:hover {
     font-size: 4rem;
     font-weight: 300;
 
-}
-
-#firstHead h2 {
-    font-size: 2rem;
-    font-weight: 900;
-    line-height: 60px;
-    letter-spacing: 1rem;
 }
 
 #firstHead h3 {
@@ -1122,5 +1121,3 @@ h2 {
 footer h3 {
     font-size: 0.7rem;
 }
-
-
