@@ -1121,3 +1121,8 @@ h2 {
 footer h3 {
     font-size: 0.7rem;
 }
+
+
+footer .officeNumber h3{
+    line-height: 20px;
+}
